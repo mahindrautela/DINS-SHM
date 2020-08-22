@@ -10,7 +10,7 @@
 -------------------------------------------------------------------------------------------------------------------
 ### Details:
 
-#### - The code is made on Python programming language on Jupyter notebook using Tensorflow 2.1.1
+#### - The code is made on Python programming language on Jupyter notebook using Tensorflow 2.0.0
 
 #### - Each line of code is provided with the heading and neccessary descriptions.
 
