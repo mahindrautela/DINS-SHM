@@ -30,4 +30,4 @@
 
 #### - Folder with 'SDEbase' contains matlab files for Reduced order Spectral Damage Element.
 
-#### - The SDEbase code is very basic and may not fetch accurate results but will provide the basic understanding of SFEM.
+#### - This code is very basic and may not fetch accurate results but will provide the basic understanding of SFEM.
