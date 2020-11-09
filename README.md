@@ -5,6 +5,7 @@
 #### This code is a part of the work presented in the paper:
 
 ### **Paper: Ultrasonic guided wave based structural damage detection and localization using model assisted convolutional and recurrent neural networks**
+### https://doi.org/10.1016/j.eswa.2020.114189
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ####  Please cite the paper if you are using the code, datasets or paper for your research paper.
 ### https://www.sciencedirect.com/science/article/pii/S0957417420309234
