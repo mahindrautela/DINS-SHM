@@ -7,6 +7,7 @@
 ### **Paper: Ultrasonic guided wave based structural damage detection and localization using model assisted convolutional and recurrent neural networks**
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ####  Please cite the paper if you are using the code, datasets or paper for your research paper.
+### https://www.sciencedirect.com/science/article/pii/S0957417420309234
 -------------------------------------------------------------------------------------------------------------------
 ### Basic Details:
 
