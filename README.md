@@ -1,4 +1,4 @@
-# ModelAssistedDeepSHMcodes
+# Deep Inverse Neural Surrogates
  Model Assisted Deep Learning for Ultrasonic guided wave based damage identification
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
