@@ -1,5 +1,5 @@
-# Deep Inverse Neural Surrogates
- Model Assisted Deep Learning for Ultrasonic guided wave based damage identification
+# Deep Inverse Neural Surrogates (DINS)
+ DINS: Deep Learning for Ultrasonic Wuided Wave based Structural Health Monitoring
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 #### This code is a part of the work presented in the paper:
