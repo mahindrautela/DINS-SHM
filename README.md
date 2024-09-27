@@ -4,6 +4,9 @@
 * A parallel implementation of a reduced-order spectral finite element model is utilized to formulate the forward problem in an isotropic and a composite waveguide. Along with a time-series dataset, a 2D representation of continuous wavelet transformation based time–frequency dataset is also developed. The datasets are corrupted with several levels of Gaussian random noise to incorporate different levels of noise present in the real scenario.
 * Deep learning networks like convolutional and recurrent neural networks are utilized to numerically approximate the solution of the inverse problem. A hybrid strategy of classification and regression in a supervised setting is proposed for combined damage detection and localization.
 * The performance of the networks is compared based on metrics like accuracy, loss value, mean absolute error, mean absolute percentage error, and coefficient of determination. The predictions from conventional machine learning algorithms, trained on feature engineered dataset are compared with the deep learning algorithms. The generalization of the trained deep networks on different excitation frequencies and a higher level of uncertainties is also highlighted in this work.
+<p align="center">
+  <img src="images/DINS.PNG" width="500" height="450" />
+</p>
 -------
 #### This repository contains codes accompanying the [paper](https://doi.org/10.1016/j.eswa.2020.114189) "Ultrasonic guided wave based structural damage detection and localization using model assisted convolutional and recurrent neural networks". The dataset accompying the paper is available at Zenodo <a href="https://doi.org/10.5281/zenodo.13844147"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13844147.svg" alt="DOI"></a>.
 Please cite the paper if you are using the code, datasets or paper for your research paper. 
