@@ -5,7 +5,7 @@
 * Deep learning networks like convolutional and recurrent neural networks are utilized to numerically approximate the solution of the inverse problem. A hybrid strategy of classification and regression in a supervised setting is proposed for combined damage detection and localization.
 * The performance of the networks is compared based on metrics like accuracy, loss value, mean absolute error, mean absolute percentage error, and coefficient of determination. The predictions from conventional machine learning algorithms, trained on feature engineered dataset are compared with the deep learning algorithms. The generalization of the trained deep networks on different excitation frequencies and a higher level of uncertainties is also highlighted in this work.
 <p align="center">
-  <img src="images/DINS.png" width="500" height="150" />
+  <img src="images/DINS.png" width="500" height="250" />
 </p>
 -------
 #### This repository contains codes accompanying the [paper](https://doi.org/10.1016/j.eswa.2020.114189) "Ultrasonic guided wave based structural damage detection and localization using model assisted convolutional and recurrent neural networks". The dataset accompying the paper is available at Zenodo <a href="https://doi.org/10.5281/zenodo.13844147"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13844147.svg" alt="DOI"></a>.
