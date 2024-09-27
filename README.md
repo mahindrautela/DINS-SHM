@@ -11,6 +11,17 @@
 -------
 #### This repository contains codes accompanying the [paper](https://doi.org/10.1016/j.eswa.2020.114189) "Ultrasonic guided wave based structural damage detection and localization using model assisted convolutional and recurrent neural networks". The dataset accompying the paper is available at Zenodo <a href="https://doi.org/10.5281/zenodo.13844147"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13844147.svg" alt="DOI"></a>.
 Please cite the paper if you are using the code, datasets or paper for your research paper. 
+```
+@article{RAUTELA2021114189,
+title = {Ultrasonic guided wave based structural damage detection and localization using model assisted convolutional and recurrent neural networks},
+journal = {Expert Systems with Applications},
+volume = {167},
+pages = {114189},
+year = {2021},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2020.114189},
+author = {Mahindra Rautela and S. Gopalakrishnan}}
+```
 
 Basic Details:
 * The code is made on Python programming language on Jupyter notebook using Tensorflow 2.0.0. Each line of code is provided with the heading and neccessary descriptions.
