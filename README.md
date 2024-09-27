@@ -7,6 +7,7 @@
 <p align="center">
   <img src="images/DINS.png" width="500" height="200" />
 </p>
+
 -------
 #### This repository contains codes accompanying the [paper](https://doi.org/10.1016/j.eswa.2020.114189) "Ultrasonic guided wave based structural damage detection and localization using model assisted convolutional and recurrent neural networks". The dataset accompying the paper is available at Zenodo <a href="https://doi.org/10.5281/zenodo.13844147"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13844147.svg" alt="DOI"></a>.
 Please cite the paper if you are using the code, datasets or paper for your research paper. 
